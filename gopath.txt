@@ -1,0 +1,4 @@
+
+$ export GOPATH=$HOME/work
+
+$ go install github.com/user/hello
